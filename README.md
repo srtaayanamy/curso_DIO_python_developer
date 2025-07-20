@@ -62,8 +62,8 @@ Este repositório reúne meus estudos, anotações e projetos desenvolvidos dura
 ## 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-j%C3%BAlia-sousa-111a9336a/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/srtaayanamy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:annafelix448@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/srtaayanamy)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=annafelix448@gmail.com)
 
 ---
 
