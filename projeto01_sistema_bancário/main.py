@@ -1,3 +1,4 @@
+'''Sistema bancário'''
 saldo_da_conta = 0.0
 depositos = []
 saques = []
@@ -67,8 +68,9 @@ def extrato():
     print(20*"-")
 
 def menu():
+    print("\nSISTEMA BANCÁRIO")
     return input(
-            '''\n========MENU========\nEscolha o que deseja fazer:\n1 - Depositar na conta.\n2 - Sacar da conta.\n3 - Listar depósitos.\n4 - Encerrar Programa.\n====================\n''')
+            '''========MENU========\nEscolha o que deseja fazer:\n1 - Depositar na conta.\n2 - Sacar da conta.\n3 - Listar depósitos.\n4 - Encerrar Programa.\n====================\n''')
 
 def main():
     while True:
