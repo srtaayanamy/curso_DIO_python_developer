@@ -43,14 +43,17 @@ class ControleArCondicionado(ControleRemoto):
     def marca(self):
         return "LG"
 
-
+print(20*"-")
 controle = ControleTV()
 controle.ligar()
 controle.desligar()
 print(controle.marca)
 
+print(20*"-")
 
 controle = ControleArCondicionado()
 controle.ligar()
 controle.desligar()
 print(controle.marca)
+
+print(20*"-")
